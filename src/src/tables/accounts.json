@@ -1,0 +1,19 @@
+{
+  "Accounts": [
+    {
+      "Username": "userA",
+      "Password": "aaaa",
+      "isAdmin": true
+    },
+    {
+      "Username": "userB",
+      "Password": "bbbb",
+      "isAdmin": false
+    },
+    {
+      "Username": "userC",
+      "Password": "cccc",
+      "isAdmin": false
+    }
+  ]
+}
