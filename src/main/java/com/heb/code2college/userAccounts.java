@@ -1,4 +1,4 @@
-package main;
+package com.heb.code2college;
 
 public class userAccounts {
     private String accName;
